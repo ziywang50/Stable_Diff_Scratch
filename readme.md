@@ -40,7 +40,7 @@ This repository contains my implementation of Stable Diffusion in PyTorch, creat
 ## Sample Output
 
 Successfully generated images from text prompts:
-- "a photo of a dog" → Beagle-style image ✅
+- "A dog stretching on the floor, highly detailed" → Beagle-style image
 
 ## Development Notes
 
