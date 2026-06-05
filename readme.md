@@ -8,6 +8,9 @@ This repository contains my implementation of Stable Diffusion in PyTorch, creat
 - Video: ["Coding Stable Diffusion from scratch in PyTorch"](https://www.youtube.com/watch?v=ZBKpAp_6TGI) by Umar Jamil (5-hour course)
 - Original Code: [hkproj/pytorch-stable-diffusion](https://github.com/hkproj/pytorch-stable-diffusion)
 
+Download vocab.json and merges.txt from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer and save them in the data folder
+Download v1-5-pruned-emaonly.ckpt from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main and save it in the data folder
+
 ## Learning Objectives
 
 - Understand the architecture of diffusion models
